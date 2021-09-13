@@ -1,2 +1,2 @@
 # Ship-Ticketing-System
-This a simple system built using Visual Basic
+This a ship ticketing system built using Visual Basic. This project was made during my second year in college.
